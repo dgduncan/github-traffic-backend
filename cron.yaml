@@ -1,5 +1,5 @@
 cron:
   - description: "daily summary job"
-    url: /test_json
-    schedule: every 10 minutes
+    url: /test
+    schedule: every 24 hours
     target: default
