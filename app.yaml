@@ -14,3 +14,6 @@
 
 runtime: go114 # replace with go111 for Go 1.11
 service: default
+
+env_variables:
+  GITHUB_TOKEN_SECRET_PATH: "projects/918598075071/secrets/github-oauth-token/versions/1"
