@@ -10,8 +10,7 @@ import (
 
 // GithubHandler test
 type GithubHandler struct {
-	Token  string
-	Client *github.Client
+	Token string
 }
 
 // TrafficHandle test
